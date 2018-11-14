@@ -1,0 +1,159 @@
+
+Jobstory - Kalender
+-------------------
+Autor: Pierre
+
+Situation: Zeit ist übrig
+Motivation: Zeit gut nutzen
+Ergebnis: Priorität wird gezeigt; Was ist als nächstes dran
+
+
+Situation: Vergessen von AUfgaben	
+Motivation: Was ist zu tun; Aufgaben ins Gedächtnis rufen 
+Ergebnis: Gedanken sortieren können
+
+
+Situiation: Überblick verloren 
+Motivation: klare Struktur schaffen
+Ergebnis: Priorität in Kopf schaffen
+
+
+Situation: Große Aufgabe, der Anfang ist unklar
+Motivation: Teilung in Unteraufgaben
+Ergebnis: Genau sehen womit man anfängt; was ist zu tun
+
+
+Situation: periodisch wiederkehrende Terminie
+Motivation: Einmal eintragen, erinnert werden
+Ergebnis: Termine in Zeitabständen
+
+_______________________
+
+Autor: Nicos
+
+Situation:	Priorität der Aufgabe soll festgelegt werden
+Motivation:	Wichtige Notizen sollen sichtbar sein
+Ergebnis:	x-Stufige Einteilung der Priorität beim Erstellen
+
+Situation:	Geburtstage sollen zusätzlich eingetragen werden
+Motivation:	Einzelnes Fragen aller Bekannten ist umständlich und langwierig
+Ergebnis:	Registrierte Nutzer können gegenseitig Daten austauschen, um automatisch Geburtstage zu registrieren	
+
+Situation:	Geburtstagstermine werden vom Nutzer eingesehen
+Motivation:	Darstellung in der "normalen" Liste von Terminen ist unübersichtlich
+Ergebnis:	Eigene Geburtstags-Liste separat von den Terminen
+
+Situation:	Es fehlt an Geschenkideen / Wissen was der andere bereits besitzt
+Motivation:	Einfaches erfahren von Wünschen und Ideen für Geschenke										10x selbes Geschenk
+Ergebnis:	Möglichkeit, seine Wünsche einzutragen und Wünsche von anderen einzusehen
+
+Situation:	Eine Person, welche kaum Ahnung von dem Produkt hat, möchte es verwenden
+Motivation:	Funktionsweise des Produktes näher bringen und erklären
+Ergebnis:	Hilfestellungen / Tutorials hinzufügen
+
+Situation:	Geburtstagstermine von Leuten, die das Produkt nicht selbst besitzen, sollen eingetragen werden
+Motivation:	Überblick über Geburtstage, ob sie von Nutzern sind, oder nicht
+Ergebnis:	Manuelles Eintragen von Geburtstagen ohne das Vorhandensein eines Accounts
+
+Situation:	Nutzer hat eigene Geburtstagstermine eingetragen (siehe vorherige Jobstory)
+Motivation:	Privatsphäre von allen Personen bewahren
+Ergebnis:	Nur der eigene Geburtstagstermin kann an andere Nutzer weitergegeben werden, andere eingetragene Termine sind nur lokal
+
+Situation:	Ein Nutzer erstellt mehrere Accounts um falsche Daten zu verbreiten
+Motivation:	Falsche Daten vermeiden und Echtheit der DDaten gewährleisten
+Ergebnis:	Verifikation des Nutzers
+
+Situation:	Weitere Pläne (Stundenplan/Einsatzplan/etc) liegen dem Nutzer vor
+Motivation:	Der Nutzer möchte seine Termine an einem ort habern und nicht überall verschiedene Päne aufrufen müssen
+Ergebnis:	Integration von Plänen zusätzlich zu Terminen/Geburtstagen evtl als Bilddatei o.ä.
+
+Situation:	Termin liegt in der Vergangenheit/ist abgeschlossen
+Motivation:	Übersichtlichkeit des Produktes bewahren, aber auf Sonderfälle achten
+Ergebnis:	Termine werden standartmäßig nach Erfüllung gelöscht, können aber per Einstellung auch erhalten bleiben (Fall: Termin ist ausgefallen und soll zu einem späteren Zeitpunkt nachgeholt werden)
+
+_______________________
+
+Glossar:
+
+
+
+
+
+Szenarien:
+1. 		Harter Arbeitstag:
+	Man ist erschöpft, will sich erinnern was noch zu tun ist:
+
+JS 1.1 		Situation: 	Vergessen von AUfgaben	
+		Motivation: 	Was ist zu tun; Aufgaben ins Gedächtnis rufen 
+		Ergebnis: 	Gedanken sortieren können
+
+	JS 1.1.1	Situation: 	Zeit ist übrig
+			Motivation: 	Zeit gut nutzen
+			Ergebnis: 	Priorität wird gezeigt; Was ist als nächstes dran
+
+		JS 1.1.1.1	Situation:	Priorität der Aufgabe soll festgelegt werden
+				Motivation:	Wichtige Notizen sollen sichtbar sein
+				Ergebnis:	x-Stufige Einteilung der Priorität beim Erstellen
+
+JS 1.2		Situiation: 	Überblick verloren 
+		Motivation: 	klare Struktur schaffen
+		Ergebnis: 	Priorität in Kopf schaffen
+
+JS 1.3		Situation: 	Große Aufgabe, der Anfang ist unklar
+		Motivation: 	Teilung in Unteraufgaben
+		Ergebnis: 	Genau sehen womit man anfängt; was ist zu tun
+
+
+
+
+
+2.		man hat einen Großen Freundes- und Familienkreis
+	aber man kann den Überblick nicht behalten
+
+JS 2.1		Situation:	Geburtstage sollen zusätzlich eingetragen werden
+		Motivation:	Einzelnes Fragen aller Bekannten ist umständlich und langwierig
+		Ergebnis:	Registrierte Nutzer können gegenseitig Daten austauschen, um automatisch Geburtstage zu registrieren	
+
+
+	JS 2.1.1	Situation:	Geburtstagstermine von Leuten, die das Produkt nicht selbst besitzen, sollen eingetragen werden
+			Motivation:	Überblick über Geburtstage, ob sie von Nutzern sind, oder nicht
+			Ergebnis:	Manuelles Eintragen von Geburtstagen ohne das Vorhandensein eines Accounts
+
+		JS 2.1.1.1	Situation:	Nutzer hat eigene Geburtstagstermine eingetragen (siehe vorherige Jobstory)
+				Motivation:	Privatsphäre von allen Personen bewahren
+				Ergebnis:	Nur der eigene Geburtstagstermin kann an andere Nutzer weitergegeben werden, andere eingetragene Termine sind nur lokal
+
+		JS 2.1.1.2	Situation:	Es fehlt an Geschenkideen / Wissen was der andere bereits besitzt
+				Motivation:	Einfaches erfahren von Wünschen und Ideen für Geschenke										10x selbes Geschenk
+				Ergebnis:	Möglichkeit, seine Wünsche einzutragen und Wünsche von anderen einzusehen
+
+	JS 2.1.2	Situation: 	periodisch wiederkehrende Terminie
+			Motivation:	Einmal eintragen, erinnert werden
+			Ergebnis: 	Termine in Zeitabständen
+
+	JS 2.1.3	Situation:	Ein Nutzer erstellt mehrere Accounts um falsche Daten zu verbreiten
+			Motivation:	Falsche Daten vermeiden und Echtheit der DDaten gewährleisten
+			Ergebnis:	Verifikation des Nutzers
+
+
+
+
+
+3.		Man Nutzt die App 
+	Umgang mit der App fällt schwer/ist unübersichtlich
+
+JS 3.1	Situation:	Eine Person, welche kaum Ahnung von dem Produkt hat, möchte es verwenden
+	Motivation:	Funktionsweise des Produktes näher bringen und erklären
+	Ergebnis:	Hilfestellungen / Tutorials hinzufügen
+
+JS 3.2	Situation:	Termin liegt in der Vergangenheit/ist abgeschlossen
+	Motivation:	Übersichtlichkeit des Produktes bewahren, aber auf Sonderfälle achten
+	Ergebnis:	Termine werden standartmäßig nach Erfüllung gelöscht, können aber per Einstellung auch erhalten bleiben (Fall: Termin ist ausgefallen und soll zu einem späteren Zeitpunkt nachgeholt werden)
+
+JS 3.3	Situation:	Geburtstagstermine werden vom Nutzer eingesehen
+	Motivation:	Darstellung in der "normalen" Liste von Terminen ist unübersichtlich
+	Ergebnis:	Eigene Geburtstags-Liste separat von den Terminen
+
+JS 3.4	Situation:	Weitere Pläne (Stundenplan/Einsatzplan/etc) liegen dem Nutzer vor
+	Motivation:	Der Nutzer möchte seine Termine an einem ort habern und nicht überall verschiedene Päne aufrufen müssen
+	Ergebnis:	Integration von Plänen zusätzlich zu Terminen/Geburtstagen evtl als Bilddatei o.ä.

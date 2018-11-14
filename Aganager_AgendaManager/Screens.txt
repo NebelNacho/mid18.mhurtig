@@ -1,0 +1,19 @@
+3 mainscreens:
+
+Agenda
+Geburtstagsliste
+Kalender
+
+Uhr / Wecker
+
+
+
+
+registrierung:
+nutzername
+name
+geburtstag
+wünsche
+wohnort(optional)
+
+beim eingeben von usernamen hinzufügen

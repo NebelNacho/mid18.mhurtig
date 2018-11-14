@@ -1,0 +1,8 @@
+mainscreen: notizen wie pushnachrichten (nach links swipen oder haken anklicken zum erledigen)
+				bei erstellung kann mit slider der tag eingestellt werden ab dem der termin "dringend" ist (verursacht push-benachrichtigung sowie gelbe färbung (rot bei verpasst))
+				geordnet (in genau der reihenfolge) nach: dringlichkeit, datum, alphabet
+	subscreens:
+		wenn auf einzelnen termin geklickt, untermenü mit unterterminen (frei sortierbar)
+				termine mit subquests benötigen bestätigung wenn ohne erfüllen aller erledigt (wenn alle erledigt, automatische erledigung)
+		von links swipen um menü zu öffnen
+			submenu: kalender
